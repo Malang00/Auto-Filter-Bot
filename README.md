@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/HA-Bots/Auto-Filter-Bot">
+  <a href="https://github.com/Malang00/Auto-Filter-Bot">
     <img src="https://graph.org/file/a66dbf46acf369e26d48a.jpg" alt="Auto Filter Bot">
   </a>
 </p>
@@ -7,7 +7,7 @@
   <b>𝘼𝙪𝙩𝙤 𝙁𝙞𝙡𝙩𝙚𝙧 𝘽𝙤𝙩</b>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒!;𝐶𝑟𝑒𝑎𝑡𝑒𝑑+𝑏𝑦+@HA_Bots;𝐴+𝑠𝑖𝑚𝑝𝑙𝑒+𝑎𝑛𝑑+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+𝐵𝑜𝑡!;𝐼𝑛𝑑𝑒𝑥𝑒𝑠+𝐹𝑖𝑙𝑒𝑠+𝑎𝑏𝑜𝑣𝑒+4𝐺𝐵)](https://github.com/HA-Bots/Auto-Filter-Bot)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒!;𝐶𝑟𝑒𝑎𝑡𝑒𝑑+𝑏𝑦+@HA_Bots;𝐴+𝑠𝑖𝑚𝑝𝑙𝑒+𝑎𝑛𝑑+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+𝐵𝑜𝑡!;𝐼𝑛𝑑𝑒𝑥𝑒𝑠+𝐹𝑖𝑙𝑒𝑠+𝑎𝑏𝑜𝑣𝑒+4𝐺𝐵)](https://github.com/Malang00/Auto-Filter-Bot)
 
 ## 𝐹𝑒𝑎𝑡𝑢𝑟𝑒𝑠
 - [x] 𝐼𝑀𝐷𝐵 𝑇𝑒𝑚𝑝𝑙𝑎𝑡𝑒 𝑆𝑒𝑡
@@ -81,7 +81,7 @@
 * `LANGUAGES`: Language of your bot search (Multiple languages can be used separated by space)
 * `PICS`: Telegraph links of images to show in start message. (Multiple images can be used separated by space)
 * `OPENAI_API`: OpenAI API. Get this value from [API keys](https://platform.openai.com/account/api-keys).
-* Check [info.py](https://github.com/HA-Bots/Auto-Filter-Bot/blob/main/info.py) for more optional variables
+* Check [info.py](https://github.com/Malang00/Auto-Filter-Bot/blob/main/info.py) for more optional variables
 
 
 ## Deploy
@@ -92,7 +92,7 @@
 <br>
 <br>
 
-<a href="https://heroku.com/deploy?template=https://github.com/HA-Bots/Auto-Filter-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/Malang00/Auto-Filter-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -104,7 +104,7 @@
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/HA-Bots/Auto-Filter-Bot&branch=main&name=Auto-Filter-Bot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Malang00/Auto-Filter-Bot&branch=main&name=Auto-Filter-Bot)
 </details>
 
 <details><summary>Deploy To Render</summary>
@@ -122,7 +122,7 @@ Use these commands:
 <b>Click on the below button to deploy on render.</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/HA-Bots/Auto-Filter-Bot/tree/main">
+<a href="https://render.com/deploy?repo=https://github.com/Malang00/Auto-Filter-Bot/tree/main">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
@@ -152,23 +152,23 @@ sudo docker run -d -p 80:80 --name Auto-Filter-Bot auto-filter-bot
 </details>
 
 ## Support
-* [![Support](https://img.shields.io/static/v1?label=Support&message=Group&color=critical)](https://t.me/HA_Bots_Support)
-* [![Updates](https://img.shields.io/static/v1?label=Updates&message=Channel&color=critical)](https://t.me/HA_Bots)
+* [![Support](https://img.shields.io/static/v1?label=Support&message=Group&color=critical)](https://t.me/Malangmovie)
+* [![Updates](https://img.shields.io/static/v1?label=Updates&message=Channel&color=critical)](https://t.me/Malangmovie03)
 
 ## Credits 
 * [![EvaMaria](https://img.shields.io/static/v1?label=EvaMaria&message=Developers&color=critical)](https://t.me/TeamEvamaria)
-* [![ᕼᗩᘉSᗩᖽᐸᗩ](https://img.shields.io/static/v1?label=ᕼᗩᘉSᗩᖽᐸᗩ&message=TG&color=critical)](https://t.me/Hansaka_Anuhas)
+* [![Austin](https://img.shields.io/static/v1?label=Austin&message=TG&color=critical)](https://t.me/Au5tin)
 
 ## Thanks To
  - [Pyrogram](https://github.com/pyrogram/pyrogram) and [PyroFork](https://github.com/Mayuri-Chan/pyrofork) For Telegram MTProto API Framework
- - [Contributors](https://github.com/HA-Bots/Auto-Filter-Bot/graphs/contributors) For free helps
+ - [Contributors](https://github.com/Malang00/Auto-Filter-Bot/graphs/contributors) For free helps
  - And to everyone who helped
 
 ## Note
- - Importing this repo instead of forking is strictly prohibited, Kindly fork and edit as your wish. Must Give Credits for [developer(s)](https://t.me/HA_Bots)
- - If you find any bugs or errors, [report](https://t.me/HA_Bots_Support) it
+ - Importing this repo instead of forking is strictly prohibited, Kindly fork and edit as your wish. Must Give Credits for [developer(s)](https://t.me/Au5tin)
+ - If you find any bugs or errors, [report](https://t.me/Malangmovie) it
 
 ## Disclaimer
 [![GNU General Public License v3.0](https://www.gnu.org/graphics/gplv3-with-text-136x68.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)  
-Licensed under [GNU AGPL v3.0](https://github.com/HA-Bots/Auto-Filter-Bot/blob/main/LICENSE)
+Licensed under [GNU AGPL v3.0](https://github.com/Malang00/Auto-Filter-Bot/blob/main/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
